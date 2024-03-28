@@ -1,0 +1,2 @@
+# JavaScript
+Casestudy pure JavaScript
